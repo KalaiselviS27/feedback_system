@@ -1,0 +1,20 @@
+{
+  "name": "feedback",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "build": "your build command here"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
